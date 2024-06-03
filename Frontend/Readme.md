@@ -66,7 +66,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GPT-3 License - see the LICENSE file for details.
 
 ---
 
