@@ -1,0 +1,29 @@
+/* src/App.css */
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #bdc345;
+  color: #fff;
+}
+
+.MuiDrawer-root {
+  width: 240px;
+  flex-shrink: 0;
+}
+
+.MuiDrawer-paper {
+  width: 240px;
+}
+
+.MuiAppBar-root {
+  z-index: 1201;
+}
+
+.MuiPaper-root {
+  background-color: #282c34;
+  color: #fff;
+}
+
+.MuiTypography-root {
+  color: #fff;
+}

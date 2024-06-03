@@ -1,0 +1,12 @@
+/* src/chartStyle.css */
+.chart-container {
+    width: 50%;  /* Adjust the width as needed */
+    height: 300px;  /* Adjust the height as needed */
+    margin: 0 auto;  /* Center the chart */
+  }
+  
+  .small-chart {
+    width: 100%;
+    height: 100%;
+  }
+  
