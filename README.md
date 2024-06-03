@@ -19,6 +19,7 @@ The primary objectives of this project are to:
 
 ## Directory Structure
 
+```plaintext
 ├───Backend
 ├───Frontend
 │   ├───public
@@ -27,7 +28,7 @@ The primary objectives of this project are to:
 │       └───Images
 └───ML Modelling
     └───Val Dataset- Final
-
+```
 
 ## Getting Started
 
