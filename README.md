@@ -51,7 +51,7 @@ The primary objectives of this project are to:
     
 ## Contact
 
-For any questions or inquiries, please open an issue on GitHub or contact us at [your-email@example.com].
+For any questions or inquiries, please open an issue on GitHub.
 
 ---
 
