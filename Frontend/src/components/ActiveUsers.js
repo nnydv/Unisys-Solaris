@@ -37,7 +37,7 @@ const ActiveUsers = () => {
     labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
     datasets: [
       {
-        label: 'Active Users',
+        label: 'Total Solarpanels',
         data: [65, 59, 80, 81, 56, 55, 40],
         fill: false,
         backgroundColor: 'rgb(75, 192, 192)',
